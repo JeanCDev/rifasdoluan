@@ -1,0 +1,44 @@
+main{
+    margin-top: 100px;
+    margin-bottom: 45px;
+}
+
+body{
+    background-color: #f0f0f5;
+}
+
+.container{
+    max-width: 600px;
+}
+
+main{
+    background-color: #fff;
+    padding: 38px;
+}
+
+form div{
+    padding: 0px 50px;
+}
+
+form div label{
+    margin-top: 25px;
+}
+
+h2{
+    margin-top: 48px;
+}
+
+#numbers{
+    margin-top: 20px;
+}
+
+.number{
+    background: #28a745;
+    color: white;
+    padding: 0 5px;
+    border-radius: 6px;
+}
+
+.selected{
+    background-color: darkturquoise;
+}
